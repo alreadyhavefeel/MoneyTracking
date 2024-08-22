@@ -1,3 +1,12 @@
+# Sample of UI MoneyTracking
+![image](https://github.com/user-attachments/assets/d9045513-b5e8-42fd-af7f-1800d61b04d0)
+![image](https://github.com/user-attachments/assets/901961bd-ae64-428d-8f7e-97ce259d8b2d)
+![image](https://github.com/user-attachments/assets/754c0785-db56-4163-b092-f43d9ff03b8c)
+![image](https://github.com/user-attachments/assets/099b3074-0c1e-45c2-9525-856259883f95)
+![image](https://github.com/user-attachments/assets/af1cb396-6205-4fbe-bffa-866e60d77976)
+![image](https://github.com/user-attachments/assets/f22ba426-da1c-4c40-a345-94318f7d6ec1)
+![image](https://github.com/user-attachments/assets/00cc183d-2b48-4ef7-8d88-46339f52b430)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
