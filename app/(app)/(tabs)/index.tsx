@@ -76,17 +76,17 @@ function ButtonAction(props) {
 }
 
 function handleClickAdd() {
-  router.push(`../Income/${99}`);
+  router.push(`../../Income/${99}`);
   // alert('Already added');
 }
 
 function handleClickExpanse() {
-  router.push(`../Expanse/${99}`);
+  router.push(`../../Expanse/${99}`);
   // alert('Already Expanse');
 }
 
 function handleClickTransfer() {
-  router.push(`../Transfer/${99}`);
+  router.push(`../../Transfer/${99}`);
   // alert('Already Transfer');
 }
 

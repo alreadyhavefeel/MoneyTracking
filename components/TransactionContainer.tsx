@@ -26,8 +26,8 @@ export function TransactionContainer(props) {
                   <MaterialIcons name={props.icons} size={24} color="black" />
                 </View>
                 <View className="flex flex-col ml-5">
-                  <ThemedText style={themeTextStyle} className="text-lg font-bold">{props.name}</ThemedText>
-                  <ThemedText style={themeTextStyle} className="text-base font-light">{props.category}</ThemedText>
+                  <ThemedText className="text-lg font-bold">{props.name}</ThemedText>
+                  <ThemedText className="text-base font-light">{props.category}</ThemedText>
                 </View>
               </View>
               <View className="flex justify-center">
